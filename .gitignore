@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 LearnIsometric/DerivedDataCache/*
+
+#Ignoro Construction_Vol1
+LearnIsometric/Content/Construction_VOL1
+
+#Ignoro Free Furniture Pack
+LearnIsometric/content/FreeFurniturePack
+
+#Ignoro VehicleVarietyPack
+LearnIsometric/Content/VehicleVarietyPack
+
+#Ignoro DemoPack
+LearnIsometric/Content/kitedemo
