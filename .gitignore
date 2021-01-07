@@ -88,12 +88,4 @@ LearnIsometric/Content/kitedemo
 #ignoro starter animpack
 LearnIsometric/Content/AnimStarterPack
 
-#ignoro efgrounds
-LearnIsometric/content/EF_Grounds
-*.umap
-LearnIsometric/Content/StarterContent/Architecture/Floor_400x400.uasset
-LearnIsometric/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
-
-#ignoro extra content
-LearnIsometric/Content/GKnight
 
